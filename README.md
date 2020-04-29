@@ -6,7 +6,7 @@
 
 主要功能：可以高效的自动完成“学习强国”的阅读任务和视听任务，每天可轻松地获取25分，节省30分钟时间！
 
-### 有杀软误报，建议使用：[火绒安全](https://www.huorong.cn/person5.html)
+[查看软件界面](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
 
 ![image](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
 
@@ -19,3 +19,5 @@
  主要功能：可以学习题目、模拟测试、搜索答案，在答题的时，可以快速准确地检索到正确的答案，轻松答过10道题！
 
 ![image](https://s1.ax1x.com/2020/04/29/J7cnPg.jpg)
+
+### 某杀软误报，建议使用：[火绒安全](https://www.huorong.cn/person5.html)
