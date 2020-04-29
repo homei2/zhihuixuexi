@@ -4,4 +4,4 @@
 
 主要功能：可以高效的自动完成“学习强国”的阅读任务和视听任务，每天可轻松地获取25分，节省30分钟时间！
 
-![image](https://ftp.bmp.ovh/imgs/2020/04/8a901e1ba3369d4c.png)
+![image](https://ftp.bmp.ovh/imgs/2020/04/e8abdbff03db2cb5.png)
