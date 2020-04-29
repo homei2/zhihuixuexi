@@ -8,7 +8,7 @@
 
 ### 有杀软误报，建议使用：[火绒安全](https://www.huorong.cn/person5.html)
 
-![image](https://ftp.bmp.ovh/imgs/2020/04/e8abdbff03db2cb5.png)
+![image](https://s1.ax1x.com/2020/04/29/J7ceIS.png)
 
 ## 智慧答题 （学习强国挑战答题，学习、测试、搜索答案）
 
@@ -18,4 +18,4 @@
 
  主要功能：可以学习题目、模拟测试、搜索答案，在答题的时，可以快速准确地检索到正确的答案，轻松答过10道题！
 
-![image](https://ftp.bmp.ovh/imgs/2020/04/6630a28612a562fe.jpg)
+![image](https://s1.ax1x.com/2020/04/29/J7cnPg.jpg)
